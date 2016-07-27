@@ -5,14 +5,18 @@ body {
 	background-color: #FFFFFF;
 }
 
-section {
-	overflow: auto;
-}
-
 textarea {
 	resize: vertical;
 }
 
 .center {
 	text-align: center;
+}
+
+footer {
+	background-color: #AFAFAF
+}
+
+section.about {
+	margin-top: 60px;
 }
