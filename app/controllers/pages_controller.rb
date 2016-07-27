@@ -20,9 +20,6 @@ class PagesController < ApplicationController
   def physique_contest
   end
 
-  def forms
-  end
-
   def contact
   end
 end
