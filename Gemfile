@@ -24,4 +24,5 @@ end
 group :production do
   gem "bugsnag"
   gem "unicorn"
+  gem "rails_12factor"
 end
