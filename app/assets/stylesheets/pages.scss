@@ -1,3 +1,39 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+div.body {
+	margin-left: 300px;
+}
+
+div.nutrition {
+	margin-left: 450px;
+}
+
+div.onetone {
+	margin-left: 200px;	
+}
+
+div.physique {
+	margin-left: 200px;
+}
+
+div.sport {
+	margin-left: 450px;
+}
+
+section.table {
+	margin-top: 100px;
+}
+
+.table td {
+	text-align: center;
+	font-size: 15px;
+}
+
+.table th {
+	text-align: center;
+	color: #2E74B5;
+	font-size: 16px;
+	font-style: italic;
+}
