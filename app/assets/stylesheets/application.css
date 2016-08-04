@@ -15,3 +15,7 @@
  *= require font-awesome
  *= require bootstrap-social
  */
+
+ p {
+ 	font-size: 18px;
+ }
