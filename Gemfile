@@ -10,6 +10,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'pg'
 gem 'sqlite3'
 gem 'jquery-turbolinks'
+gem 'mail_form'
+gem 'simple_form'
 
 gem 'jquery-rails'
 gem 'turbolinks'
