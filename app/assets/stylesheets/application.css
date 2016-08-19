@@ -16,6 +16,11 @@
  *= require bootstrap-social
  */
 
+ div.body-tran {
+ 	border-radius: 2px;
+ 	
+ }
+
  p {
  	font-size: 18px;
  	color: #111111;
