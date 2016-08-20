@@ -27,7 +27,12 @@
  }
 
  li {
- 	font-size: 15px;
+ 	font-size: 17px;
+ 	font-style: normal;
+ }
+
+ li.nav-links {
+ 	border-right: 1px solid #595959;
  }
 
 h2 {
@@ -37,3 +42,5 @@ h2 {
 h3 {
 	font-style: italic;
 }
+
+
