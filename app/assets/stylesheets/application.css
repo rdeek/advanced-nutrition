@@ -16,10 +16,19 @@
  *= require bootstrap-social
  */
 
+ img.combination {
+ 	margin-bottom: 10px;
+ }
+
  div.body-tran {
  	border-radius: 2px;
  	
  }
+
+ div.clear-space {
+ 	height: 160px;
+ }
+
 
  p {
  	font-size: 18px;
