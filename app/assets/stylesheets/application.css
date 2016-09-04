@@ -20,6 +20,10 @@
  	margin-bottom: 10px;
  }
 
+ img.main-banner {
+ 	margin-top: 50px;
+ }
+
  div.body-tran {
  	border-radius: 2px;
  	
@@ -56,9 +60,7 @@ header.jumbotron {
 	background-color: #FFFFFF;
 }
 
-header.main-image {
-	margin-top: 50px;
-}
+
 
 
 
