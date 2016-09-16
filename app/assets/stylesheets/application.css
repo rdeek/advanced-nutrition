@@ -16,11 +16,25 @@
  *= require bootstrap-social
  */
 
+ button {
+ 	width: 120px;
+ 	height: 40px;
+ 	padding: 5px;
+ }
+
  img.combination {
  	margin-bottom: 10px;
  }
 
  img.main-banner {
+
+ }
+
+ input {
+ 	height: 40px;
+ 	font-size: 16px;
+ 	padding: 10px; 	
+ 	border: 1px solid #E6E3DC;
 
  }
 
@@ -60,6 +74,11 @@ header.jumbotron {
 	background-color: #FFFFFF;
 }
 
+textarea {
+	font-size: 16px;
+	padding: 10px;
+	border: 1px solid #E6E3DC;
+}
 
 
 
