@@ -5,7 +5,7 @@
 		<%= render "layouts/main" %>
 	</header>
 	<section class="container contact" background="">
-		<div class="row">	
+		<div class="row row-content">	
 			<div class="col-md-12">
 				<h2 align="center">Contact Us</h2>
 				<p align="center">Email: <a href="mailto:adnutritionservices@gmail.com"> adnutritionservices@gmail.com</a></p>
@@ -14,18 +14,20 @@
 				to get healthier or perform better at your sport? Call or email me anytime and get a free
 				consultation.</p> <br/>
 			</div>						
+		</div>
+		<div class="row row-content">
 			<div class="col-md-12">
 				<h2 align="center">Please Send us a Mail</h2>
 				<br />
 				<form class="form-group">
 					<div class="form-group" align="center">
-						<input type="text" placeholder="First Name" size="60">
+						<input type="text" placeholder="First Name" size="60" required>
 					</div>
 					<div class="form-group" align="center">
-						<input type="text" name="" placeholder="Last Name" size="60">
+						<input type="text" name="" placeholder="Last Name" size="60" required>
 					</div>
 					<div class="form-group" align="center">
-						<input type="text" name="" placeholder="Email" size="60">
+						<input type="text" name="" placeholder="Email" size="60" required>
 					</div>
 					<div class="form-group" align="center">
 						<input type="text" name="" placeholder="Phone Number" size="60">
@@ -37,7 +39,7 @@
 						<button type="submit" class="btn btn-primary">Send</button>
 					</div>
 				</form>
-			</div>	
+			</div>
 		</div>
 	</section>
 
